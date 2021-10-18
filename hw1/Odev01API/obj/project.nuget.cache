@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMnewG4t/Hx75+lWAK9Mmdd+7CqpQku3aBog5YylBpL9CWJq1cQi6Dtqn4e7y71NNE9rviiV3e1OmKOLQLRXaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer.sucu\\Documents\\GitHub\\homework-1-omer-can-sucu\\Odev01API\\Odev01API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\omer.sucu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
